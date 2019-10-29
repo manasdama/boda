@@ -1,0 +1,13 @@
+
+cat>orange.txt
+git init
+git status
+clear
+bbjjh
+
+
+
+
+
+
+
